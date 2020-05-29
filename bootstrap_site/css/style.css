@@ -133,3 +133,9 @@ body, html {
 .fa-facebook:hover, .fa-instagram:hover, .fa-youtube:hover, .fa-twitter:hover, .fa-google-plus-g:hover{
     color: #ccc;
 }
+footer{
+    background-color:#3f3f3f ;
+    padding-top: 50px;
+    border-top: 4px solid silver;
+    color: white;
+}
